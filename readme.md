@@ -1,7 +1,7 @@
-# **🌈Nice to meet you I'm Junbo Sim🌈** 
+## **🌈Nice to meet you I'm Junbo Sim🌈** 
 <br>
 
-## **I am interested in Devops engineer and backend development.**<br><br>
+## **I am interested in Devops engineer and backend development.**<br>
 
 
 ## 📕 **Skills**
@@ -15,7 +15,7 @@
 
 
 ## 🥕 About Me
-#### In order to escape the life of always wanting carrots, I am training myself by studying IT while whipping myself. I, who have been thrilled by music for 10 years of studying music, now feel thrilled by building infrastructure with devops tools. I am very interested in MSA architecture and I am studying using K8S CICD tool in cloud environment. Currently, I am polishing myself by taking full-stack development classes based on the Django framework.<br><br><br><br>
+#### In order to escape the life of always wanting carrots, I am training myself by studying IT while whipping myself. I, who have been thrilled by music for 10 years of studying music, now feel thrilled by building infrastructure with devops tools. I am very interested in MSA architecture and I am studying using K8S CICD tool in cloud environment. Currently, I am polishing myself by taking full-stack development classes based on the Django framework.<br><br><br><br><br><br><br>
 
 
 
