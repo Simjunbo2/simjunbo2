@@ -19,11 +19,11 @@
 
 ![SAA-C02](/DevopsCertificate/aws-certified-solutions-architect-associate.png)
 
-### 📕 **Blogs**
-[![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6)](https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6) [![Notion badge](https://img.shields.io/badge/Tistory-d14836?style=flat-square&logo=n&logoColor=white&link=https://devsim.tistory.com/)](https://devsim.tistory.com/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simjunbo2&show_icons=true&theme=radical)
+
+[![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6)](https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6) [![Notion badge](https://img.shields.io/badge/Tistory-d14836?style=flat-square&logo=n&logoColor=white&link=https://devsim.tistory.com/)](https://devsim.tistory.com/)
 
 
 
