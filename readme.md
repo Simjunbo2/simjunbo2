@@ -14,9 +14,10 @@
 
 
 ## 🥕 About Me
-#### In order to escape the life of always wanting carrots, I am training myself by studying IT while whipping myself. I, who have been thrilled by music for 10 years of studying music, now feel thrilled by building infrastructure with devops tools. I am very interested in MSA architecture and I am studying using K8S CICD tool in cloud environment. Currently, I am polishing myself by taking full-stack development classes based on the Django framework.<br><br><br><br><br><br><br>
+#### In order to escape the life of always wanting carrots, I am training myself by studying IT while whipping myself. I, who have been thrilled by music for 10 years of studying music, now feel thrilled by building infrastructure with devops tools. I am very interested in MSA architecture and I am studying using K8S CICD tool in cloud environment. Currently, I am polishing myself by taking full-stack development classes based on the Django framework.<br><br><br><br><br>
 
 
+![SAA-C02](/DevopsCertificate/aws-certified-solutions-architect-associate.png)
 
 ### 📕 **Blogs**
 [![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6)](https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6) [![Notion badge](https://img.shields.io/badge/Tistory-d14836?style=flat-square&logo=n&logoColor=white&link=https://devsim.tistory.com/)](https://devsim.tistory.com/)
