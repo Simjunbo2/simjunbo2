@@ -1,5 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Devops&fontSize=90&fontColor=00ffff&animation=twinkling)
-
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Devops&fontSize=90&fontColor=FF0000&animation=twinkling&)
 
 
 
@@ -10,10 +9,10 @@
 
 ## **Hi** 
 
-## **I am interested in Devops engineer and backend development.**<br><br>
+### **I am interested in Devops engineering and backend development.**<br><br>
 
 ### Skills
-<img src="https://img.shields.io/badge/Shellscript-C71585?style=flat-square&logo=Shell&logoColor=white"/> <img src="https://img.shields.io/badge/Python-DAA520	?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shellscript-4B0082?style=flat-square&logo=Shell&logoColor=white"/> <img src="https://img.shields.io/badge/Python-8B0000?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-000080?style=flat-square&logo=Mysql&logoColor=white"/> <br><br>
  
 
