@@ -28,10 +28,11 @@
 ![SAA-C02](/DevopsCertificate/aws-certified-solutions-architect-associate.png)
 
 
+[![simjunbo2](https://github-readme-stats.vercel.app/api?username=simjunbo2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simjunbo2&show_icons=true&theme=radical)
 
-[![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6)](https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6) [![Notion badge](https://img.shields.io/badge/Tistory-d14836?style=flat-square&logo=n&logoColor=white&link=https://devsim.tistory.com/)](https://devsim.tistory.com/)
+
+[![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6)](https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6) [![tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=n&logoColor=white&link=https://devsim.tistory.com/)](https://devsim.tistory.com/)
 
 
 </center> 
