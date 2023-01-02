@@ -1,19 +1,28 @@
-## **🌈Nice to meet you I'm Junbo Sim🌈** 
-
-## **I am interested in Devops engineer and backend development.**<br><br>
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Devops&fontSize=90&fontColor=00ffff&animation=twinkling)
 
 
-## 📕 **Skills**
-<img src="https://img.shields.io/badge/Shellscript-000000?style=flat-square&logo=Shell&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> <br><br>
+
+
+
+
+<center>
+
+## **``Hi``** 
+
+## **I am interested in Devops engineer and backend development.**<br><br><br>
+<br>
+
+### ``Skills``
+<img src="https://img.shields.io/badge/Shellscript-C71585?style=flat-square&logo=Shell&logoColor=white"/> <img src="https://img.shields.io/badge/Python-DAA520	?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-000080?style=flat-square&logo=Mysql&logoColor=white"/> <br><br>
  
 
- ## 🛠 **Tools**
+ ### ``Tool``
 <img src="https://img.shields.io/badge/Docker-2962FF?style=flat-square&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon&logoColor=white"/>  <img src="https://img.shields.io/badge/Jenkins-EE0000?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/><br><br>
 
 
 
-## 🥕 About Me
+## ``About Me``
 #### In order to escape the life of always wanting carrots, I am training myself by studying IT while whipping myself. I, who have been thrilled by music for 10 years of studying music, now feel thrilled by building infrastructure with devops tools. I am very interested in MSA architecture and I am studying using K8S CICD tool in cloud environment. Currently, I am polishing myself by taking full-stack development classes based on the Django framework.<br><br><br><br><br>
 
 
@@ -30,8 +39,7 @@
 
 
 
-
-
+</center> 
 
 
 
