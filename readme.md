@@ -35,8 +35,8 @@
 [![Notion badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6)](https://junbo2.notion.site/SIM-JUN-BO-7fc0a449058f4c0f982f4e23245043d6) [![tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=n&logoColor=white&link=https://devsim.tistory.com/)](https://devsim.tistory.com/)
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pythongod)](https://solved.ac/pythongod/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/pythongod/)
 
 
 </center> 
