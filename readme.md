@@ -25,8 +25,9 @@
 #### ^ _ ^.<br><br><br><br><br>
 
 
-![SAA-C02](/DevopsCertificate/aws-certified-solutions-architect-associate.png)
 
+![SAA-C02](/DevopsCertificate/aws-certified-solutions-architect-associate.png)
+![DOP-C01](/DevopsCertificate/aws-certified-devops-engineer-professional%20(5).png)
 
 [![simjunbo2](https://github-readme-stats.vercel.app/api?username=simjunbo2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
